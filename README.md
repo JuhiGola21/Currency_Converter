@@ -1,6 +1,6 @@
 # OCaml FX Currency Converter
 
-This is a beginner-level project written in OCaml.
+This is a mini-project written in OCaml.
 
 It lets users convert currencies like USD, EUR, and JPY into GBP using hardcoded exchange rates.
 
